@@ -1,0 +1,9 @@
+E:\Project\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+E:\Project\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+E:\Project\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+E:\Project\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csprojResolveAssemblyReference.cache
+E:\Project\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Form1.resources
+E:\Project\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+E:\Project\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.Cache
+E:\Project\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+E:\Project\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
